@@ -57,11 +57,11 @@
 
 - ### :tv: [Videos by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahIbplgN1YwOmpmlTh-cRJZ5)
 
-- ### :writing_hand: Notes on [Relativistic](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/john_rel_qft.pdf) and [Advanced](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/john_adv_qft.pdf) Quantum Field Theory by Alexander John — [Original Source](https://github.com/avstjohn)
-
 - ### :writing_hand: [Notes by Richie Dadhley](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/dadhley.pdf) — [Original Source](https://richie291.wixsite.com/theoreticalphysics/projects-2)
 
 - ### :writing_hand: [Notes by Michael Astwood](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/astwood.pdf) — [Original Source](https://github.com/mastwood/advancedquantum)
+
+- ### :writing_hand: Notes on [Relativistic](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/john_rel_qft.pdf) and [Advanced](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/john_adv_qft.pdf) Quantum Field Theory by Alexander John — [Original Source](https://github.com/avstjohn)
 
 ## :slot_machine: Random Topics
 
