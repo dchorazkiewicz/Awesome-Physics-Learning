@@ -62,6 +62,7 @@
 - ### :writing_hand: [Notes by Michael Astwood](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/astwood.pdf) — [Original Source](https://github.com/mastwood/advancedquantum)
 
 - ### :writing_hand: Notes on [Relativistic](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/john_rel_qft.pdf) and [Advanced](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/Quantum-Theory/john_adv_qft.pdf) Quantum Field Theory by Alexander John — [Original Source](https://github.com/avstjohn)
+
 ## :slot_machine: Random Topics
 
 - ### :writing_hand: [Notes from Durham by Richie Dadhley](https://richie291.wixsite.com/theoreticalphysics/projects-2)
