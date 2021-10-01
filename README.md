@@ -21,6 +21,13 @@
 
 > ### Contributions are very welcome! :hugs:
 
+## Table of Contents
+
+  - [:apple: Classical Mechanics](#apple-classical-mechanics)
+  - [:milky_way: General Relativity](#milky_way-general-relativity)
+  - [:electron: Quantum Theory](#electron-quantum-theory)
+  - [:slot_machine: Random Topics](#slot_machine-random-topics)
+
 ## :apple: [Classical Mechanics](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/General-Relativity)
 
 - ### :tv: [Videos by Tobias Osborne](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
