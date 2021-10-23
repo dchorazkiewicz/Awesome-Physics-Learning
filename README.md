@@ -23,10 +23,10 @@
 
 ## Table of Contents
 
-  - [:apple: Classical Mechanics](#apple-classical-mechanics)
-  - [:milky_way: General Relativity](#milky_way-general-relativity)
-  - [:electron: Quantum Theory](#electron-quantum-theory)
-  - [:slot_machine: Random Topics](#slot_machine-random-topics)
+- [:apple: Classical Mechanics](#apple-classical-mechanics)
+- [:milky_way: General Relativity](#milky_way-general-relativity)
+- [:electron: Quantum Theory](#electron-quantum-theory)
+- [:slot_machine: Random Topics](#slot_machine-random-topics)
 
 ## :apple: [Classical Mechanics](https://github.com/tensorush/Awesome-Physics-Lectures/blob/master/General-Relativity)
 
@@ -78,7 +78,11 @@
 
 - ### :tv: [Videos on Everything by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/videos)
 
+- ### :tv: [Videos on All of Physics by Faculty of Khan](https://www.youtube.com/c/FacultyofKhan/playlists)
+
 - ### :tv: [Videos on Modern Physics by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U)
+
+- ### :tv: [Videos on All of Physics by Pretty Much Physics](https://www.youtube.com/c/PrettyMuchPhysics/playlists)
 
 - ### :tv: [Videos on From Classical Mechanics to String Theory by Leonard Susskind](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
 
