@@ -76,13 +76,13 @@
 
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
-- ### :tv: [Videos on Everything by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/videos)
-
 - ### :tv: [Videos on All of Physics by Faculty of Khan](https://www.youtube.com/c/FacultyofKhan/playlists)
 
-- ### :tv: [Videos on Modern Physics by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U)
+- ### :tv: [Videos on Everything by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/videos)
 
 - ### :tv: [Videos on All of Physics by Pretty Much Physics](https://www.youtube.com/c/PrettyMuchPhysics/playlists)
+
+- ### :tv: [Videos on Modern Physics by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahIoDQye5cwtG3CGdzs-zd0U)
 
 - ### :tv: [Videos on From Classical Mechanics to String Theory by Leonard Susskind](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
 
