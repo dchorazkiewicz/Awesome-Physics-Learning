@@ -47,6 +47,8 @@
 
 - ### :tv: [Videos by XylyXylyX](https://www.youtube.com/playlist?list=PLRlVmXqzHjURQIIebhT7UNTwGQHUEPlsb)
 
+- ### :tv: [Videos by ScienceClic](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo)
+
 - ### :tv: [Videos by Alex Flournoy](https://www.youtube.com/playlist?list=PLDlWMHnDwyljkfy3EBSMlM5D5KQiUSpsB)
 
 - ### :tv: [Videos by Tobias Osborne](https://www.youtube.com/playlist?list=PLDfPUNusx1EptAsuASuuoSH2EDL3qOFNb)
@@ -54,6 +56,8 @@
 - ### :tv: [Videos by Frederic Schuller](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
 
 - ### :tv: [Videos by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahLdijxQnWO2eBk3XTJMvO4a)
+
+- ### :tv: [Videos by dXoverdteqprogress](https://www.youtube.com/playlist?list=PLbRB7u42hOE8rMIvShBxxiSdBdh9yQQL_)
 
 - ### :writing_hand: [Notes by Ernest Yeung](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/yeung.pdf) — [Original Source](https://lazierthanthou.github.io/Lecture_Notes_GR/)
 
@@ -81,7 +85,11 @@
 
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
+- ### :tv: [Videos on Modern Physics by eigenchris](https://www.youtube.com/c/eigenchris/playlists)
+
 - ### :tv: [Videos on All of Physics by Faculty of Khan](https://www.youtube.com/c/FacultyofKhan/playlists)
+
+- ### :tv: [Videos on All of Physics by PBS Space Time](https://www.youtube.com/c/pbsspacetime/playlists?view=1&sort=dd&shelf_id=0)
 
 - ### :tv: [Videos on Everything by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/videos)
 
