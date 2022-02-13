@@ -55,6 +55,10 @@
 
 - ### :tv: [Videos by Frederic Schuller](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
 
+- ### :tv: [Videos by Lê Nguyên Hoang](https://www.youtube.com/playlist?list=PL8ovs-QtxcNydaiz8LSPpo8G0fatCqdTQ)
+
+- ### :tv: [Videos by Thomas Baumgarte](https://www.youtube.com/playlist?list=PL04QVxpjcnjh2mFtM-RsRmbcWhETPcasv)
+
 - ### :tv: [Videos by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahLdijxQnWO2eBk3XTJMvO4a)
 
 - ### :tv: [Videos by dXoverdteqprogress](https://www.youtube.com/playlist?list=PLbRB7u42hOE8rMIvShBxxiSdBdh9yQQL_)
