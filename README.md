@@ -13,7 +13,7 @@
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_6_revisionreworked.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
@@ -24,12 +24,13 @@
 ## Table of Contents
 
 - [:apple: Classical Mechanics](#apple-classical-mechanics)
-- [:high_brightness: Special Relativity](#high_brightness-special-relativity)
+- [:ocean: Fluid Mechanics](#ocean-fluid-mechanics)
 - [:milky_way: General Relativity](#milky_way-general-relativity)
+- [:high_brightness: Special Relativity](#high_brightness-special-relativity)
 - [:electron: Quantum Theory](#electron-quantum-theory)
 - [:slot_machine: Random Topics](#slot_machine-random-topics)
 
-## :apple: [Classical Mechanics](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity)
+## :apple: Classical Mechanics
 
 - ### :tv: [Videos by Tobias Osborne](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
 
@@ -39,9 +40,11 @@
 
 - ### :tv: [Videos by Georgia Tech Professors](https://www.youtube.com/playlist?list=PLdYA6aAIlKrfuBXrhOacJL_QEA7iXz3mz)
 
-## :high_brightness: [Special Relativity](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity)
+## :ocean: Fluid Mechanics
 
-- ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
+- ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
+
+- ### :tv: [Videos by the National Committee for Fluid Mechanics](https://www.youtube.com/playlist?list=PL0EC6527BE871ABA3)
 
 ## :milky_way: [General Relativity](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity)
 
@@ -63,7 +66,13 @@
 
 - ### :tv: [Videos by dXoverdteqprogress](https://www.youtube.com/playlist?list=PLbRB7u42hOE8rMIvShBxxiSdBdh9yQQL_)
 
+- ### :writing_hand: [Notes by Chris Blake](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/blake.pdf) — [Original Source](https://astronomy.swin.edu.au/~cblake/GR_FormulaSheet.pdf)
+
 - ### :writing_hand: [Notes by Ernest Yeung](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/yeung.pdf) — [Original Source](https://lazierthanthou.github.io/Lecture_Notes_GR/)
+
+## :high_brightness: Special Relativity
+
+- ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
 
 ## :electron: [Quantum Theory](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory)
 
