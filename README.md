@@ -24,8 +24,10 @@
 ## Table of Contents
 
 - [:apple: Classical Mechanics](#apple-classical-mechanics)
+- [:zap: Electromagnetism](#zap-electromagnetism)
 - [:ocean: Fluid Mechanics](#ocean-fluid-mechanics)
 - [:milky_way: General Relativity](#milky_way-general-relativity)
+- [:radioactive: Nuclear Physics](#radioactive-nuclear-physics)
 - [:high_brightness: Special Relativity](#high_brightness-special-relativity)
 - [:electron: Quantum Theory](#electron-quantum-theory)
 - [:slot_machine: Random Topics](#slot_machine-random-topics)
@@ -40,6 +42,12 @@
 
 - ### :tv: [Videos by Georgia Tech Professors](https://www.youtube.com/playlist?list=PLdYA6aAIlKrfuBXrhOacJL_QEA7iXz3mz)
 
+## :zap: Electromagnetism
+
+- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/electromag.html)
+
+- ### :tv: [Videos by Robert de Mello Koch](https://www.youtube.com/playlist?list=PLTBqohhFNBE_fZu9cpbluJAq2yECyV8ZL)
+
 ## :ocean: Fluid Mechanics
 
 - ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
@@ -47,6 +55,8 @@
 - ### :tv: [Videos by the National Committee for Fluid Mechanics](https://www.youtube.com/playlist?list=PL0EC6527BE871ABA3)
 
 ## :milky_way: [General Relativity](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity)
+
+- ### :tv: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/genrel.html)
 
 - ### :tv: [Videos by XylyXylyX](https://www.youtube.com/playlist?list=PLRlVmXqzHjURQIIebhT7UNTwGQHUEPlsb)
 
@@ -66,15 +76,25 @@
 
 - ### :tv: [Videos by dXoverdteqprogress](https://www.youtube.com/playlist?list=PLbRB7u42hOE8rMIvShBxxiSdBdh9yQQL_)
 
-- ### :writing_hand: [Notes by Chris Blake](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/blake.pdf) — [Original Source](https://astronomy.swin.edu.au/~cblake/GR_FormulaSheet.pdf)
+- ### :black_joker: [Notes by Chris Blake](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/blake.pdf) — [Original Source](https://astronomy.swin.edu.au/~cblake/GR_FormulaSheet.pdf)
 
 - ### :writing_hand: [Notes by Ernest Yeung](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/yeung.pdf) — [Original Source](https://lazierthanthou.github.io/Lecture_Notes_GR/)
 
+## :radioactive: Nuclear Physics
+
+- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/subatomic.html)
+
+- ### :tv: [Videos by Markus Klute](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Do91PdN978llIsvjKW0au)
+
 ## :high_brightness: Special Relativity
+
+- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/specrel.html)
 
 - ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
 
 ## :electron: [Quantum Theory](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory)
+
+- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/quantum.html)
 
 - ### :tv: [Videos by XylyXylyX](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
 
@@ -105,6 +125,8 @@
 - ### :tv: [Videos on All of Physics by PBS Space Time](https://www.youtube.com/c/pbsspacetime/playlists?view=1&sort=dd&shelf_id=0)
 
 - ### :tv: [Videos on Everything by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/videos)
+
+- ### :film_projector: [Slides on Introduction to Physics by Chris Blake](https://astronomy.swin.edu.au/~cblake/introphysics.html)
 
 - ### :tv: [Videos on All of Physics by Pretty Much Physics](https://www.youtube.com/c/PrettyMuchPhysics/playlists)
 
