@@ -28,9 +28,9 @@
 - [:ocean: Fluid Mechanics](#ocean-fluid-mechanics)
 - [:milky_way: General Relativity](#milky_way-general-relativity)
 - [:radioactive: Nuclear Physics](#radioactive-nuclear-physics)
-- [:high_brightness: Special Relativity](#high_brightness-special-relativity)
 - [:electron: Quantum Theory](#electron-quantum-theory)
-- [:slot_machine: Random Topics](#slot_machine-random-topics)
+- [:high_brightness: Special Relativity](#high_brightness-special-relativity)
+- [:slot_machine: Various Topics](#slot_machine-various-topics)
 
 ## :apple: Classical Mechanics
 
@@ -76,21 +76,15 @@
 
 - ### :tv: [Videos by dXoverdteqprogress](https://www.youtube.com/playlist?list=PLbRB7u42hOE8rMIvShBxxiSdBdh9yQQL_)
 
-- ### :black_joker: [Notes by Chris Blake](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/blake.pdf) — [Original Source](https://astronomy.swin.edu.au/~cblake/GR_FormulaSheet.pdf)
-
 - ### :writing_hand: [Notes by Ernest Yeung](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/yeung.pdf) — [Original Source](https://lazierthanthou.github.io/Lecture_Notes_GR/)
+
+- ### :black_joker: [Cheatsheet by Chris Blake](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity/blake.pdf) — [Original Source](https://astronomy.swin.edu.au/~cblake/GR_FormulaSheet.pdf)
 
 ## :radioactive: Nuclear Physics
 
 - ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/subatomic.html)
 
 - ### :tv: [Videos by Markus Klute](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Do91PdN978llIsvjKW0au)
-
-## :high_brightness: Special Relativity
-
-- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/specrel.html)
-
-- ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
 
 ## :electron: [Quantum Theory](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory)
 
@@ -112,7 +106,13 @@
 
 - ### :writing_hand: Notes on [Relativistic](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory/john_rel_qft.pdf) and [Advanced](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory/john_adv_qft.pdf) Quantum Field Theory by Alexander John — [Original Source](https://github.com/avstjohn)
 
-## :slot_machine: Random Topics
+## :high_brightness: Special Relativity
+
+- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/specrel.html)
+
+- ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
+
+## :slot_machine: Various Topics
 
 - ### :writing_hand: [Notes from Durham by Richie Dadhley](https://richie291.wixsite.com/theoreticalphysics/projects-2)
 
