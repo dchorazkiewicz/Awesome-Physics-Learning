@@ -24,12 +24,14 @@
 ## Table of Contents
 
 - [:apple: Classical Mechanics](#apple-classical-mechanics)
+- [:ringed_planet: Cosmology](#ringed_planet-cosmology)
 - [:zap: Electromagnetism](#zap-electromagnetism)
 - [:ocean: Fluid Mechanics](#ocean-fluid-mechanics)
 - [:milky_way: General Relativity](#milky_way-general-relativity)
 - [:radioactive: Nuclear Physics](#radioactive-nuclear-physics)
 - [:electron: Quantum Theory](#electron-quantum-theory)
 - [:high_brightness: Special Relativity](#high_brightness-special-relativity)
+- [:fire: Thermodynamics](#fire-thermodynamics)
 - [:slot_machine: Various Topics](#slot_machine-various-topics)
 
 ## :apple: Classical Mechanics
@@ -38,9 +40,11 @@
 
 - ### :tv: [Videos by Alexander Maloney](https://www.youtube.com/playlist?list=PLrbYZnU7vahLwGDMeVlRib_L_MpkOhphu)
 
-- ### :tv: [The Feynman Lectures on Physics](https://www.youtube.com/playlist?list=PLgRI7D_FXEnrCM8T1czHfJsvbQd4V1jRc)
-
 - ### :tv: [Videos by Georgia Tech Professors](https://www.youtube.com/playlist?list=PLdYA6aAIlKrfuBXrhOacJL_QEA7iXz3mz)
+
+## :ringed_planet: Cosmology
+
+- ### :tv: [Videos by James Bullock](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k6iBjOjThLJGozZAY4OD_w)
 
 ## :zap: Electromagnetism
 
@@ -49,6 +53,8 @@
 - ### :tv: [Videos by Robert de Mello Koch](https://www.youtube.com/playlist?list=PLTBqohhFNBE_fZu9cpbluJAq2yECyV8ZL)
 
 ## :ocean: Fluid Mechanics
+
+- ### :tv: [Videos by Roger Rangel](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7m8oL297GkRRszNN1Q-l6wb)
 
 - ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 
@@ -65,6 +71,8 @@
 - ### :tv: [Videos by Alex Flournoy](https://www.youtube.com/playlist?list=PLDlWMHnDwyljkfy3EBSMlM5D5KQiUSpsB)
 
 - ### :tv: [Videos by Tobias Osborne](https://www.youtube.com/playlist?list=PLDfPUNusx1EptAsuASuuoSH2EDL3qOFNb)
+
+- ### :tv: [Videos by Herbert Hamber](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7ln1ZQPEU9aZQsEj0eyGlT6)
 
 - ### :tv: [Videos by Frederic Schuller](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
 
@@ -112,7 +120,13 @@
 
 - ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
 
+## :fire: Thermodynamics
+
+- ### :tv: [Videos by Roger Rangel](https://ocw.uci.edu/courses/mae_91_introduction_to_thermodynamics.html)
+
 ## :slot_machine: Various Topics
+
+- ### :writing_hand: [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
 - ### :writing_hand: [Notes from Durham by Richie Dadhley](https://richie291.wixsite.com/theoreticalphysics/projects-2)
 
