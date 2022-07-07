@@ -1,4 +1,4 @@
-# :comet: **Awesome Physics Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# :sunglasses: :comet: **Awesome Physics Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome Physics learning resources in the form of notes, videos and cheatsheets.
+## :man_student: Collection of the most awesome Physics learning resources in the form of notes, videos and cheatsheets.
 
 > ### Contributions are very welcome! :hugs:
 
