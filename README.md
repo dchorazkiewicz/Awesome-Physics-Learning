@@ -29,6 +29,7 @@
 - [:ocean: Fluid Mechanics](#ocean-fluid-mechanics)
 - [:milky_way: General Relativity](#milky_way-general-relativity)
 - [:radioactive: Nuclear Physics](#radioactive-nuclear-physics)
+- [:mag: Optics](#mag-optics)
 - [:electron: Quantum Theory](#electron-quantum-theory)
 - [:high_brightness: Special Relativity](#high_brightness-special-relativity)
 - [:fire: Thermodynamics](#fire-thermodynamics)
@@ -49,6 +50,8 @@
 ## :zap: Electromagnetism
 
 - ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/electromag.html)
+
+- ### :tv: [Videos by Jordan Edmunds](https://www.youtube.com/playlist?list=PLQms29D1RqeIkCoDbrtcZZ-u8LNYhs5In)
 
 - ### :tv: [Videos by Robert de Mello Koch](https://www.youtube.com/playlist?list=PLTBqohhFNBE_fZu9cpbluJAq2yECyV8ZL)
 
@@ -93,6 +96,10 @@
 - ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/subatomic.html)
 
 - ### :tv: [Videos by Markus Klute](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Do91PdN978llIsvjKW0au)
+
+## :mag: Optics
+
+- ### :tv: [Videos by Jordan Edmunds](https://www.youtube.com/playlist?list=PLQms29D1RqeJQhEGjEqZVXDtuQWtuqr1h)
 
 ## :electron: [Quantum Theory](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory)
 
