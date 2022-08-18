@@ -23,6 +23,7 @@
 
 ## Table of Contents
 
+- [:recycle: Biophysics](#recycle-biophysics)
 - [:apple: Classical Mechanics](#apple-classical-mechanics)
 - [:ringed_planet: Cosmology](#ringed_planet-cosmology)
 - [:zap: Electromagnetism](#zap-electromagnetism)
@@ -30,12 +31,21 @@
 - [:milky_way: General Relativity](#milky_way-general-relativity)
 - [:radioactive: Nuclear Physics](#radioactive-nuclear-physics)
 - [:mag: Optics](#mag-optics)
-- [:electron: Quantum Theory](#electron-quantum-theory)
+- [:electron: Quantum Physics](#electron-quantum-physics)
 - [:high_brightness: Special Relativity](#high_brightness-special-relativity)
+- [:violin: String Theory](#violin-string-theory)
 - [:fire: Thermodynamics](#fire-thermodynamics)
 - [:slot_machine: Various Topics](#slot_machine-various-topics)
 
+## :recycle: Biophysics
+
+- ### :tv: [Videos by CryoScience](https://www.youtube.com/playlist?list=PLWEiAJhCw-zQsTReXRYvEcjhdMQK7yUhI)
+
 ## :apple: Classical Mechanics
+
+- ### :tv: [Videos by ZAP Physics](https://www.youtube.com/playlist?list=PL-RmwJq2kMwmQN7hmbfmmJEJLqGhQWe1x)
+
+- ### :tv: [Videos by Sam Dietterich](https://www.youtube.com/playlist?list=PLSpklniGdSfQ4L7uJcsV4vXs0lOiwIcfX)
 
 - ### :tv: [Videos by Tobias Osborne](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
 
@@ -65,13 +75,19 @@
 
 ## :milky_way: [General Relativity](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/General-Relativity)
 
-- ### :tv: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/genrel.html)
-
 - ### :tv: [Videos by XylyXylyX](https://www.youtube.com/playlist?list=PLRlVmXqzHjURQIIebhT7UNTwGQHUEPlsb)
+
+- ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/genrel.html)
 
 - ### :tv: [Videos by ScienceClic](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo)
 
+- ### :tv: [Videos by ZAP Physics](https://www.youtube.com/playlist?list=PL-RmwJq2kMwn7xz05T3cEJW19_ShsRIgE)
+
+- ### :tv: [Videos by CryoScience](https://www.youtube.com/playlist?list=PLWEiAJhCw-zSIYd5zoHEd7mnw02DLh3VU)
+
 - ### :tv: [Videos by Alex Flournoy](https://www.youtube.com/playlist?list=PLDlWMHnDwyljkfy3EBSMlM5D5KQiUSpsB)
+
+- ### :tv: [Videos by Sam Dietterich](https://www.youtube.com/playlist?list=PLSpklniGdSfThG6DCVj1uFqJIN9LMPMq4)
 
 - ### :tv: [Videos by Tobias Osborne](https://www.youtube.com/playlist?list=PLDfPUNusx1EptAsuASuuoSH2EDL3qOFNb)
 
@@ -101,15 +117,21 @@
 
 - ### :tv: [Videos by Jordan Edmunds](https://www.youtube.com/playlist?list=PLQms29D1RqeJQhEGjEqZVXDtuQWtuqr1h)
 
-## :electron: [Quantum Theory](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory)
+## :electron: [Quantum Physics](https://github.com/tensorush/Awesome-Physics-Learning/blob/master/Quantum-Theory)
+
+- ### :tv: [Videos by XylyXylyX](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
 
 - ### :film_projector: [Slides by Chris Blake](https://astronomy.swin.edu.au/~cblake/quantum.html)
 
-- ### :tv: [Videos by XylyXylyX](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
+- ### :tv: [Videos by ZAP Physics](https://www.youtube.com/playlist?list=PL-RmwJq2kMwntflvQRQLun6gr6iIjgJvM)
+
+- ### :tv: [Videos by CryoScience](https://www.youtube.com/playlist?list=PLWEiAJhCw-zR5F0VcLIBEzRxlnnp-qDTk)
 
 - ### :tv: [Videos by John Watrous](https://www.youtube.com/channel/UCfIfRmTLP8b0YODpudkf0tw/videos)
 
 - ### :tv: [Videos by Alex Flournoy](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf)
+
+- ### :tv: [Videos by Sam Dietterich](https://www.youtube.com/playlist?list=PLSpklniGdSfSsk7BSZjONcfhRGKNa2uou)
 
 - ### :tv: [Videos by Frederic Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
 
@@ -127,7 +149,15 @@
 
 - ### :globe_with_meridians: [Interactive Course by In Theory](https://in-theory.net/special-relativity/)
 
+## :violin: String Theory
+
+- ### :speech_balloon: [Workshop at Kyoto University](http://www2.yukawa.kyoto-u.ac.jp/~kias-yitp2021/)
+
+- ### :speech_balloon: [Conference at Monte Verità Center](https://conf.itp.phys.ethz.ch/string21/)
+
 ## :fire: Thermodynamics
+
+- ### :tv: [Videos by ZAP Physics](https://www.youtube.com/playlist?list=PL-RmwJq2kMwlCVeToZLiAsnf6Kb7QPp9w)
 
 - ### :tv: [Videos by Roger Rangel](https://ocw.uci.edu/courses/mae_91_introduction_to_thermodynamics.html)
 
