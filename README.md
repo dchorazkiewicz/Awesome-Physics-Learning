@@ -1,13 +1,4 @@
-# :sunglasses: :milky_way: **Awesome Physics Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Physics-Learning/pulls)
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![GNU GPL v3.0][license-shield]][license-url]
+# :sunglasses: :milky_way: **Awesome Physics Learning**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_4_inverseprojection.gif">
@@ -188,16 +179,3 @@
 - ### :tv: [Videos on From Classical Mechanics to String Theory by Leonard Susskind](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
 
 - ### :tv: [Videos on Geometrical Anatomy of Theoretical Physics by Frederic Schuller](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
-
-<!-- MARKDOWN LINKS -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-Physics-Learning.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-Physics-Learning/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-Physics-Learning.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-Physics-Learning/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-Physics-Learning.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-Physics-Learning/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-Physics-Learning.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-Physics-Learning/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-Physics-Learning.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-Physics-Learning/blob/master/LICENSE.md
