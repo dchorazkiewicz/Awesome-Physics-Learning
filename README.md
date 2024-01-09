@@ -160,6 +160,8 @@
 
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
+- ### :writing_hand: [Lectures on All of Physics by Barak Shoshany](https://baraksh.com/)
+
 - ### :tv: [Videos on Modern Physics by eigenchris](https://www.youtube.com/c/eigenchris/playlists)
 
 - ### :tv: [Videos on All of Physics by Faculty of Khan](https://www.youtube.com/c/FacultyofKhan/playlists)
