@@ -160,13 +160,15 @@
 
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
-- ### :writing_hand: [Lectures on All of Physics by Barak Shoshany](https://baraksh.com/)
+- ### :globe_with_meridians: [APlusPhysics Web Site by Dan Fullerton](https://www.aplusphysics.com/)
 
 - ### :tv: [Videos on Modern Physics by eigenchris](https://www.youtube.com/c/eigenchris/playlists)
 
 - ### :tv: [Videos on All of Physics by Faculty of Khan](https://www.youtube.com/c/FacultyofKhan/playlists)
 
 - ### :tv: [Videos on All of Physics by PBS Space Time](https://www.youtube.com/c/pbsspacetime/playlists?view=1&sort=dd&shelf_id=0)
+
+- ### :writing_hand: [Lectures on All of Physics by Barak Shoshany](https://baraksh.com/)
 
 - ### :tv: [Videos on Everything by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/videos)
 
