@@ -166,6 +166,8 @@
 
 - ### :tv: [Videos on All of Physics by Faculty of Khan](https://www.youtube.com/c/FacultyofKhan/playlists)
 
+- ### :writing_hand: [Physics for Mathematicians by Nicolas Ford](https://nicf.net/articles/physics-for-mathematicians/)
+
 - ### :tv: [Videos on All of Physics by PBS Space Time](https://www.youtube.com/c/pbsspacetime/playlists?view=1&sort=dd&shelf_id=0)
 
 - ### :writing_hand: [Lectures on All of Physics by Barak Shoshany](https://baraksh.com/)
